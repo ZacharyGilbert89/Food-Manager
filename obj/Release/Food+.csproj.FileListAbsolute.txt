@@ -1,0 +1,17 @@
+D:\Users\Zach\Documents\VS-Projects\Food+\bin\Release\Food+.exe.config
+D:\Users\Zach\Documents\VS-Projects\Food+\bin\Release\Food+.exe.manifest
+D:\Users\Zach\Documents\VS-Projects\Food+\bin\Release\Food+.application
+D:\Users\Zach\Documents\VS-Projects\Food+\bin\Release\Food+.exe
+D:\Users\Zach\Documents\VS-Projects\Food+\bin\Release\Food+.pdb
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food+.csprojAssemblyReference.cache
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food_.Form1.resources
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food_.newitem.resources
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food_.Properties.Resources.resources
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food_.settings.resources
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food+.csproj.GenerateResource.cache
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food+.exe.manifest
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food+.application
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food+.exe
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food+.pdb
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food_.addItem.resources
+D:\Users\Zach\Documents\VS-Projects\Food+\obj\Release\Food_.Search.resources
